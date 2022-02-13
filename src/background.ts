@@ -8,6 +8,6 @@
  * https://developer.chrome.com/docs/extensions/mv2/background_pages/
  */
 
-console.log("background script");
+console.log('background script');
 
 export {};

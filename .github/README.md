@@ -1,6 +1,4 @@
-# esbuild-react-chrome-extension
-
-This is a boilerplate for chrome extensions writted in React and bundled with esbuild.
+## Chrome plugin: jira-2-clockify
 
 ## Build
 
